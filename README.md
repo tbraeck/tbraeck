@@ -6,7 +6,7 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ABOUT ME
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://static.wixstatic.com/media/83bfeb_3f965c75786e4979bd0961e848c734f3~mv2.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
