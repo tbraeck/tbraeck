@@ -3,9 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7CC2C&center=true&vCenter=true&random=false&width=435&lines=FullStack+Software+Engineer;Lifelong+Learner;Visual+Artist;Data+Scientist;Designer;UI%2F+UX;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p> 
 
-
-<br>
-
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
