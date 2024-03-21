@@ -38,8 +38,8 @@
 
 <p align="center"> 
   &emsp; 
-  <a href="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black" target="_blank"> 
-    <img alt="C" src="https://www.svgrepo.com/show/303500/react-1-logo.svg" width=25px>
+  <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black" width=25px>
   </a> 
   &emsp;
   <a href="https://www.ruby-lang.org/en/documentation/" target="_blank"> 
