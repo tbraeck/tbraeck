@@ -10,7 +10,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
+- :school: I have my FullStack Software Engineering Certification from ` at [Flatiron School](https://flatironschool.com/welcome-to-flatiron-school/?utm_source=Google&utm_medium=ppc&utm_campaign=12728169839&utm_content=127574231184&utm_term=flatiron%20school&uqaid=513799628798&CjwKCAjwkuqvBhAQEiwA65XxQCbuTtXxaBFY5ow5CRKSeMeOCDPcdpVYrtywDT0QjY-7qUnBqNbHmxoCCFQQAvD_BwE&gad_source=1&gclid=CjwKCAjwkuqvBhAQEiwA65XxQCbuTtXxaBFY5ow5CRKSeMeOCDPcdpVYrtywDT0QjY-7qUnBqNbHmxoCCFQQAvD_BwE).
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
