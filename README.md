@@ -39,7 +39,7 @@
 <p align="center"> 
   &emsp; 
   <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank"> 
-    <img alt="C" src="https://www.svgrepo.com/show/303500/react-1-logo.svg">
+    <img alt="C" src="https://www.svgrepo.com/show/303500/react-1-logo.svg" width=15px>
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
