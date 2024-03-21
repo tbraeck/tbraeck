@@ -13,11 +13,11 @@
 - :school: I have my FullStack Software Engineering Certification from [Flatiron School](https://flatironschool.com/welcome-to-flatiron-school/?utm_source=Google&utm_medium=ppc&utm_campaign=12728169839&utm_content=127574231184&utm_term=flatiron%20school&uqaid=513799628798&CjwKCAjwkuqvBhAQEiwA65XxQCbuTtXxaBFY5ow5CRKSeMeOCDPcdpVYrtywDT0QjY-7qUnBqNbHmxoCCFQQAvD_BwE&gad_source=1&gclid=CjwKCAjwkuqvBhAQEiwA65XxQCbuTtXxaBFY5ow5CRKSeMeOCDPcdpVYrtywDT0QjY-7qUnBqNbHmxoCCFQQAvD_BwE).
 - 🧑‍💻: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- 🧑‍🎨: Lifelong `Visual Artist` and 'Educator'.
+- 🧑‍🎨: Lifelong `Visual Artist` and `Educator`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/gnnvH).
+- :boom: You can visit [MY WEBSITE](http://lnkiy.in/gnnvH).
 <br>
 
 
