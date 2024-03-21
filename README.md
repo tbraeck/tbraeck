@@ -185,7 +185,7 @@
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tbraeck&theme=github	)](https://github.com/tbraeck/github-readme-activity-graph)
+[![tbraeck's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tbraeck&theme=github	)](https://github.com/tbraeck/github-readme-activity-graph)
 
  
 </details>
