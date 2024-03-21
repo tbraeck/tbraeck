@@ -14,7 +14,7 @@
 - 🧑‍💻: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Python` and `Data Science`.
-- - 🧑‍🎨: Lifelong `Visual Artist`, `Educator`, `Leader`, `Designer`.
+- 🧑‍🎨: Lifelong `Visual Artist`, `Educator`, `Leader`, `Designer`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/gnnvH).
 - :boom: You can visit [MY WEBSITE](http://lnkiy.in/ZeZfM).
