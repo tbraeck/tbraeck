@@ -43,7 +43,7 @@
   </a> 
   &emsp;
   <a href="https://www.ruby-lang.org/en/documentation/" target="_blank"> 
-    <img alt="Ruby" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/822px-Ruby_On_Rails_Logo.svg.png" width=45px>
+    <img alt="Rails" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/822px-Ruby_On_Rails_Logo.svg.png" width=45px>
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -51,7 +51,7 @@
    </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+    <img alt="Rails" src="https://webimages.mongodb.com/_com_assets/cms/l3eu6s4af6ni0jm8h-Ruby.svg?auto=format%2Ccompress&ch=DPR&w=283" width=45px>
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
