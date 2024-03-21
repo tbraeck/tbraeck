@@ -10,13 +10,13 @@
 
 <br><br>
 
-- :school: I have my FullStack Software Engineering Certification from [Flatiron School](https://flatironschool.com/welcome-to-flatiron-school/?utm_source=Google&utm_medium=ppc&utm_campaign=12728169839&utm_content=127574231184&utm_term=flatiron%20school&uqaid=513799628798&CjwKCAjwkuqvBhAQEiwA65XxQCbuTtXxaBFY5ow5CRKSeMeOCDPcdpVYrtywDT0QjY-7qUnBqNbHmxoCCFQQAvD_BwE&gad_source=1&gclid=CjwKCAjwkuqvBhAQEiwA65XxQCbuTtXxaBFY5ow5CRKSeMeOCDPcdpVYrtywDT0QjY-7qUnBqNbHmxoCCFQQAvD_BwE).
+- 🏫: I have my FullStack Software Engineering Certification from [Flatiron School](https://flatironschool.com/welcome-to-flatiron-school/?utm_source=Google&utm_medium=ppc&utm_campaign=12728169839&utm_content=127574231184&utm_term=flatiron%20school&uqaid=513799628798&CjwKCAjwkuqvBhAQEiwA65XxQCbuTtXxaBFY5ow5CRKSeMeOCDPcdpVYrtywDT0QjY-7qUnBqNbHmxoCCFQQAvD_BwE&gad_source=1&gclid=CjwKCAjwkuqvBhAQEiwA65XxQCbuTtXxaBFY5ow5CRKSeMeOCDPcdpVYrtywDT0QjY-7qUnBqNbHmxoCCFQQAvD_BwE).
 - 🧑‍💻 I love using Software as a solution for every `Problem`.
-- :student I’m currently learning `Python` and `Data Science`.
+- 🧑‍🎓 I’m currently learning `Python` and `Data Science`.
 - 🧑‍🎨 Lifelong `Visual Artist`, `Educator`, `Leader`, `Designer`.
-- :nerd_face Always `learning new things`.
-- :thinking I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/gnnvH).
-- :boom You can visit [MY WEBSITE](http://lnkiy.in/ZeZfM).
+- 🤓 Always `learning new things`.
+- 🤔 I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/gnnvH).
+- 💥 You can visit [MY WEBSITE](http://lnkiy.in/ZeZfM).
 - 🖌️ And here's my [VISUAL ART WEBSITE](http://lnkiy.in/2IV5O).
 <br>
 
