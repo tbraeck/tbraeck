@@ -43,7 +43,7 @@
   </a> 
   &emsp;
   <a href="https://www.ruby-lang.org/en/documentation/" target="_blank"> 
-    <img alt="Ruby" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/822px-Ruby_On_Rails_Logo.svg.png" width=35px>
+    <img alt="Ruby" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/822px-Ruby_On_Rails_Logo.svg.png" width=45px>
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
