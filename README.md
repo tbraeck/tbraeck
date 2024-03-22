@@ -79,7 +79,7 @@
    </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Back_End.gif?raw=true" width = 50px>  </picture> BACKEND DEVELOPMENT
+### <picture>  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Back_End.gif?raw=true" width="50px"> </picture> BACKEND DEVELOPMENT
 <p align="center"> 
   &emsp;
   <a href="https://www.ruby-lang.org/en/documentation/" target="_blank"> 
