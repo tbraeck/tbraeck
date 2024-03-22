@@ -205,10 +205,10 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=tbraeck&repo=teachsource&theme=tokyonight" alt="teach_source" />
     	</a>
     	<a href="https://github.com/tbraeck/PHASE4_PROJECT">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=tbraeck&&theme=tokyonight" alt="art_randomizer" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=tbraeck&repo=PHASE4_PROJECT&theme=tokyonight" alt="art_randomizer" />
     	</a>
     	<a href="https://github.com/tbraeck/Drawing_App">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=tbraeck&&theme=tokyonight" alt="drawing_app" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=tbraeck&repo=Drawing_App&theme=tokyonight" alt="drawing_app" />
     	</a>
 	
   </p>
