@@ -179,20 +179,7 @@
  
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tbraeck&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="tbraeck" /></a> </p>
-
-[![tbraeck's Holopin board](https://holopin.io/api/user/board?user=tbraeck)](https://holopin.io/@tbraeck)
-	
-</details>
-	
-<details><summary><h3> :open_file_folder: MY REPOSITORIES </h3></summary>
-
-----
-	
 <div>
   <p align="center">
 	<a href="https://github.com/tbraeck/barter_barn_v2">
