@@ -156,7 +156,7 @@
 
 </details>
   
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<details><summary><h3>💻 GITHUB PROFILE STATS</h3></summary>
 
 ----
 	
