@@ -138,7 +138,7 @@
     
 </p>
 
- ### <picture> <img src = "https://drive.google.com/file/d/1a84zaf3Ih6n6R450WeymqNx86zc1lsSj/view?usp=drive_link?raw=true" width = 50px>  </picture> ART & DESIGN
+ ### <picture> <img src = "https://miro.medium.com/v2/resize:fit:1400/1*aE-YlTNHpGr_5YVMiA6H8A.gif?raw=true" width = 50px>  </picture> ART & DESIGN
  
 <p align="center">
   &emsp;
