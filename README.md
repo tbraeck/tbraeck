@@ -138,7 +138,7 @@
     
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> ART & DESIGN
+ ### <picture> <img src = "https://drive.google.com/file/d/1a84zaf3Ih6n6R450WeymqNx86zc1lsSj/view?usp=drive_link?raw=true" width = 50px>  </picture> ART & DESIGN
  
 <p align="center">
   &emsp;
