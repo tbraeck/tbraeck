@@ -102,17 +102,13 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+    <a href="https://github.com/tbraeck"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+    <a href="https://stackoverflow.com/users/23910394/tbreck"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Stack%20Overflow-gray?style=plastic&logo=google%20sheets&logoColor=white"></a>
+    <a href="https://auth.geeksforgeeks.org/user/tatebraw2zb"><img alt="Geek For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geek For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+    <a href="https://pathfinder.w3schools.com/"><img alt="JSON" img src="https://img.shields.io/badge/W3Schools-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
