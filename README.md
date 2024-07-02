@@ -193,7 +193,7 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=tbraeck&repo=Portfolio&theme=tokyonight" alt="portfolio" />
     	</a>
     	<a href="https://github.com/tbraeck/teachsource">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=tbraeck&repo=Teach Source&theme=tokyonight" alt="teach_source" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=tbraeck&repo=teachsource&theme=tokyonight" alt="teach_source" />
     	</a>
     	<a href="https://github.com/tbraeck/PHASE4_PROJECT">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=tbraeck&repo=Art Randomizer&theme=tokyonight" alt="art_randomizer" />
