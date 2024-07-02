@@ -189,8 +189,8 @@
 	<a href="https://github.com/tbraeck/barter_barn_v2">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=tbraeck&repo=barter_barn_v2&theme=tokyonight" alt="barter_barn" />
     	</a>
-	<a href="https://github.com/tbraeck/tbraeckel-portfolio">
-      		<img src="https://github.com/tbraeck/simple-portfolio" alt="portfolio" />
+	<a href="https://github.com/tbraeck/simple-portfolio">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=tbraeck&repo=teachsource&theme=tokyonight" alt="portfolio" />
     	</a>
     	<a href="https://github.com/tbraeck/teachsource">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=tbraeck&repo=teachsource&theme=tokyonight" alt="teach_source" />
