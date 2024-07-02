@@ -196,7 +196,7 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=tbraeck&repo=teachsource&theme=tokyonight" alt="teach_source" />
     	</a>
     	<a href="https://github.com/tbraeck/PHASE4_PROJECT">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=tbraeck&repo=art_randomizer&theme=tokyonight" alt="art_randomizer" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=tbraeck&repo=PHASE4_PROJECT&theme=tokyonight" alt="art_randomizer" />
     	</a>
     	<a href="https://github.com/tbraeck/Drawing_App">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=tbraeck&repo=drawing_app&theme=tokyonight" alt="drawing_app" />
